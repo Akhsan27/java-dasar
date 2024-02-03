@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    width: 0;
+}
+h1{
+    text-align: center;
+    color: red;
+    position: relative;
+    justify-content: center;
+
+}
